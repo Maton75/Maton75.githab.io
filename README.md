@@ -27,7 +27,7 @@
         <h1>Добро пожаловать</h1>
         <p>Этот маленький сайт — способ связаться со мной в Telegram.</p>
 
-        <a class="button" href="https://t.me/YOUR_TELEGRAM" target="_blank">
+        <a class="button" href="https://t.me/@Chernenko_Ilya" target="_blank">
             Перейти в Telegram
         </a>
 
